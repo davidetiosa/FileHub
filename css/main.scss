@@ -177,7 +177,7 @@ main {
 
     height: 85vh;
     background-image: linear-gradient(135deg,rgba(175, 174, 174, 0.63),rgba(44, 44, 44, 0.575)), url(../img/bg-main.jpg);
-    background-size: cover;
+    background: no-repeat cover center;
     flex-direction: column;
     text-align: center;
 
